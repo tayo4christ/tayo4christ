@@ -63,8 +63,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omotayo-emmanuel-omoyemi-mbcs-054484191/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cFw_hV0AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Omotayo-Omoyemi)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/tayo4christ)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tayo4christ)
 
 ---
 
