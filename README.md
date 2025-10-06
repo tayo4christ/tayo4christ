@@ -28,6 +28,15 @@
 
 ---
 
+## 🧩 Open Source Contributions
+### 💡 Major Projects
+| Project | Contribution | Status | Link |
+|----------|---------------|--------|------|
+| **Hugging Face Transformers** | Updated ASR (Automatic Speech Recognition) examples to improve cross-platform reliability and onboarding experience. | ✅ Merged | [PR #41027](https://github.com/huggingface/transformers/pull/41027) |
+| **Mozilla Common Voice** | Enhanced documentation to provide both official and alternative Matrix community links for improved accessibility and client flexibility. | 🕒 Under Review | [PR #5081](https://github.com/common-voice/common-voice/pull/5081) |
+
+---
+
 ## 📜 Certifications & Memberships
 
 - 🎓 Google IT Support Certificate
