@@ -6,7 +6,7 @@
 
 🔍 Passionate about inclusive technology, gesture recognition (Makaton), speech AI, and accessible learning tools.
 
-📍 Based in the UK | 🧑🏽‍🏫 Computer Science Educator | 🎤 ICSIE 2024 Presenter
+📍 Based in the UK 
 
 ---
 
@@ -34,6 +34,14 @@
 |----------|---------------|--------|------|
 | **Hugging Face Transformers** | Updated ASR (Automatic Speech Recognition) examples to improve cross-platform reliability and onboarding experience. | ✅ Merged | [PR #41027](https://github.com/huggingface/transformers/pull/41027) |
 | **Mozilla Common Voice** | Enhanced documentation to provide both official and alternative Matrix community links for improved accessibility and client flexibility. | 🕒 Under Review | [PR #5081](https://github.com/common-voice/common-voice/pull/5081) |
+
+---
+
+## 🏆 Recognition & Community
+- 🧩 **Global AI Delegate to the UK** (GAFAI) – representing responsible AI initiatives.  
+- 🗣️ **Technical Author** – [FreeCodeCamp](https://www.freecodecamp.org/news/author/tayo4christ/)  
+- 💪 **Tech Volunteer and Mentor** – [AbilityNet](https://abilitynet.org.uk) • [Codebar](https://codebar.io)  
+- 🎓 Conference Presenter – ICSIE 2024, Aarhus 2025, UKCI 2025
 
 ---
 
