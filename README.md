@@ -28,12 +28,15 @@
 
 ---
 
-## 🧩 Open Source Contributions
+## 🧩 Open Source Contributions  
 ### 💡 Major Projects
+
 | Project | Contribution | Status | Link |
 |----------|---------------|--------|------|
-| **Hugging Face Transformers** | Updated ASR (Automatic Speech Recognition) examples to improve cross-platform reliability and onboarding experience. | ✅ Merged | [PR #41027](https://github.com/huggingface/transformers/pull/41027) |
-| **Mozilla Common Voice** | Enhanced documentation to provide both official and alternative Matrix community links for improved accessibility and client flexibility. | 🕒 Under Review | [PR #5081](https://github.com/common-voice/common-voice/pull/5081) |
+| **Hugging Face Transformers** | Updated ASR (Automatic Speech Recognition) examples to improve cross-platform reliability, dataset consistency, and onboarding experience. | ✅ Merged | [PR #41027](https://github.com/huggingface/transformers/pull/41027) |
+| **spaCy (Explosion AI)** | Removed the outdated *spaCy Quickstart* course link from official documentation to protect users from spam redirects and maintain resource integrity. | ✅ Merged | [PR #13877](https://github.com/explosion/spaCy/pull/13877) |
+| **Gradio (Hugging Face)** | Added a Vercel deployment template for the JS Client and linked it from the guide to streamline web deployment workflows for AI developers. | 🕒 Under Review | [PR #12053](https://github.com/gradio-app/gradio/pull/12053) |
+| **Mozilla Common Voice** | Improved documentation accessibility by updating Matrix community links and providing alternative connection methods for contributors. | 🕒 Under Review | [PR #5081](https://github.com/common-voice/common-voice/pull/5081) |
 
 ---
 
