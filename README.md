@@ -22,9 +22,6 @@
   
 - ✍️ **freeCodeCamp Publication**: Authored an article on How to Create a Real-Time Gesture-to-Text Translator Using Python and Mediapipe — published on freeCodeCamp’s Developer News  
   📰 [Read on freeCodeCamp](https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/)
-  
--  **Featured in *The Guardian***: Highlighted for my work on predictive, multimodal AAC technology in the feature article *“Predictive communication for all: The future of inclusive tech is here”*  
-  📰 [Read in *The Guardian*](https://guardian.ng/news/predictive-communication-for-all-the-future-of-inclusive-tech-is-here/) :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -52,9 +49,9 @@
 
 - 🎓 Google IT Support Certificate
 - 🤖 AI & Python Masterclass — Data Science Nigeria
-- 💼 MBCS — British Computer Society
+- 💼 Fellow — British Computer Society
 - ⚡ IEEE — Senior Level Member
-- 🏛 FRSA — Royal Society of Arts
+- 🏛 Fellow — Institute of Stem Innovation and Excellence
 
 ---
 
